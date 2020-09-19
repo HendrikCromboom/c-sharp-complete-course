@@ -19,9 +19,7 @@ I will probably settle on this as I go and update this section as soon as I feel
 
 ---
 
-### Index
-
-[Getting Started](./getting-started.md)
+### [Index - Start of the Course](./index.md)
 
 ---
 
