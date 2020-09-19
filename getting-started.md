@@ -11,6 +11,8 @@ For an in-debt guide on installing Rider on any system: [Start Here](https://www
 
 For the Linux users out there the following [guide](https://sourcedigit.com/20839-extract-install-tar-gz-files-ubuntu/) will explain how to install tar-gz packages.
 
+---
+
 ### Install a recent .NET Core build
 
 In order to run anything in .NET we have to have the .NET Core on our OS, this usually isn't deployed out of the box on most OS. 
@@ -22,5 +24,31 @@ You can check your current version in the console `dotnet --version`
 OR
 
 In Rider go to File > Settings > Environment.
+
+---
+
+### Install Compiler
+
+* Windows: 
+
+The .NET framework has csc included and will be be able to compile out of the box using the following command in the directory of your C# build:
+
+`csc /out:program_name.exe source_file.cs`
+
+We will get back to the meaning of these parameters when we create our first "Hello World!"
+
+* Linux/Mac:
+
+For Unix/Linux we need to install Mono first:
+
+`sudo apt-get update`
+
+`sudo apt-get install mono-complete`
+
+To compile a file:
+
+`mcs -out:hello.exe hello.cs`
+
+Again, we will cover compiling later
 
 
