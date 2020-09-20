@@ -50,3 +50,7 @@ hcromboom@gmail.com
 * Init 0.0.3 (20/09/'20)
 
     Numbers added
+    
+### Credit
+
+* Microsoft's .NET documentation and tutorials

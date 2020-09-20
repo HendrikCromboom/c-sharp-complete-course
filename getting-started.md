@@ -53,6 +53,6 @@ Again, we will cover compiling later
 
 ---
 
-[Back to Index](README.md) |[Next](hello-world.md)
+[Back to Index](index.md) |[Next](hello-world.md)
 
 

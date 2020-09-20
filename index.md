@@ -9,3 +9,5 @@
 [1.3 The Basics](the-basics.md)
 
 [1.4 Numbers](numbers.md)
+
+[1.5 Branches and Loops](branches-loops.md)
