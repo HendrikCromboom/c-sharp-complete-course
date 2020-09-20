@@ -40,16 +40,19 @@ hcromboom@gmail.com
 
 * Init 0.0.1 (19/09/'20)
 
-    README and Getting Started added
+    - README and Getting Started added
     
 * Init 0.0.2 (19/09/'20)
 
-    Hello World and The Basics added
-    Index added to bundle chapters
+    - Hello World and The Basics added
+    - Index added to bundle chapters
     
 * Init 0.0.3 (20/09/'20)
 
-    Numbers added
+    - Numbers added
+    - Branches and Loops added
+    - Links to Index.md fixed
+    
     
 ### Credit
 
