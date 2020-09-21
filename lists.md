@@ -109,7 +109,7 @@ foreach (var name in names)
 
 ### Solution
 
-* You can check one of the many solutions [HERE](example-1.md)
+* You can check one of the many solutions [HERE](example-2.md)
 
 * You should have the following output in your console:
 
