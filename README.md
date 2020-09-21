@@ -53,6 +53,10 @@ hcromboom@gmail.com
     - Branches and Loops added
     - Links to Index.md fixed
     
+* Init 0.0.4 (21/09/'20)
+
+    -Lists added
+    
     
 ### Credit
 

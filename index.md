@@ -11,3 +11,5 @@
 [1.4 Numbers](numbers.md)
 
 [1.5 Branches and Loops](branches-loops.md)
+
+[1.6 Lists](lists.md)

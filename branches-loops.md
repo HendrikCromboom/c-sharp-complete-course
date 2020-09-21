@@ -175,4 +175,6 @@ Find the sum of all integers 1 through 20 that are divisible by 3.
 
 * You can check one of the many solutions [HERE](example-1.md)
 
+[Back to Index](index.md) |[Next](lists.md)
+
 
