@@ -26,7 +26,7 @@ I will probably settle on this as I go and update this section as soon as I feel
 
 ### Roadmap
 
-Getting Started (Complete, Current) > Hello World (19/09/'20) >...
+Lists (Complete, Current) > Final Chapter 1 (25/09/'20) >...
 
 ---
 
