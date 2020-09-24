@@ -57,6 +57,12 @@ hcromboom@gmail.com
 
     -Lists added
     
+* Init 0.0.5 (24/09/'20)
+    
+    -Console added
+    -Final added
+    -Final example postponed due to needing refactoring due to pushing OOP/Classes/Methods to ch2
+    
     
 ### Credit
 

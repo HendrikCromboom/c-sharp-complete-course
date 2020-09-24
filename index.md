@@ -13,3 +13,13 @@
 [1.5 Branches and Loops](branches-loops.md)
 
 [1.6 Lists](lists.md)
+
+[1.7 Console](console.md)
+
+[1.8 Chapter 1: Final](final.md)
+
+### Chapter 2
+
+TBC...
+
+Sneak preview: Classes, methods, ...
