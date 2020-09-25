@@ -26,7 +26,8 @@ I will probably settle on this as I go and update this section as soon as I feel
 
 ### Roadmap
 
-Lists (Complete, Current) > Final Chapter 1 (25/09/'20) >...
+Chapter 2: Core
+Chapter 3: ASP
 
 ---
 
