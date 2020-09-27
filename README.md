@@ -26,7 +26,7 @@ I will probably settle on this as I go and update this section as soon as I feel
 
 ### Roadmap
 
-Chapter 2: Core
+Chapter 2: Core SDK
 Chapter 3: ASP
 
 ---
